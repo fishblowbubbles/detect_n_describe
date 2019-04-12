@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+data/class_descriptions.csv
+data/train_annotations.csv
+data/train_annotations_human_labels.csv
+data/train_images_with_rotation.csv
+data/train/*
