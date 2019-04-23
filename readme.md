@@ -12,10 +12,10 @@ Custom weights (`backup/tiny_6`) were trained on a subset of the [Open Images V4
 5. Rifle
 6. Sunglasses
 
-Relative paths to metafiles are:
-`.data` - `cfg/custom.data`
-`.cfg` - `cfg/custom.cfg`
-`.weights` - `backup/tiny_6/custom_22000.weights` (best)
+Relative paths to metafiles are: <br/>
+`.data` - `cfg/custom.data` <br/>
+`.cfg` - `cfg/custom.cfg` <br/>
+`.weights` - `backup/tiny_6/custom_22000.weights` (best) <br/>
   
 In `Makefile`, `GPU=1` and `OPENCV=1` by default, however `cuda` and `OpenCV` must be installed. Otherwise, set to `0` as required and re-run `make`. Detailed instructions can be found [here](https://pjreddie.com/darknet/yolo/).
 
