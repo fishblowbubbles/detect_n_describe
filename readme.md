@@ -27,4 +27,4 @@ To prepare training and validation datasets, use `utilities.ipynb`. During train
 **To test** - `./darknet detector test <path to .data> <path to .cfg> <path to .weights>` <br/>
 **To demo (video)** - `./detector detector demo <path to .data> <path to .cfg> <path to .weights> <path to video file>` <br/>
 
-At test/demo, add arguments `-thresh {%/100}` to adjust confidence threshold (default is `o.5`).
+At test/demo, add arguments `-thresh <%/100>` to adjust confidence threshold (default is `o.5`).
