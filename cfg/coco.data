@@ -1,0 +1,7 @@
+classes= 80
+train  = /home/tingyu/Documents/darknet/data/coco/trainvalno5k.txt
+valid  = /home/tingyu/Documents/darknet/data/coco/5k.txt
+names = data/coco.names
+backup = backup
+eval = coco
+
