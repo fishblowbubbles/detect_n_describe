@@ -1,0 +1,6 @@
+# detect_n_describe
+
+### Object Detection With YOLOv3
+
+This project is a fork of John Redmon's darknet {insert link here} ... 
+Our custom weights are trained on a subset of the Open Images V4 dataset {insert link here} ...
