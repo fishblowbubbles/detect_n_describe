@@ -1,8 +1,11 @@
 .ipynb_checkpoints
+.vscode
+
 bad.list
 darknet
+
 data/custom/*
 data/meta/*
+
 libdarknet.a
 libdarknet.so
-
